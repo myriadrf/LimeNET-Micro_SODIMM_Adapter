@@ -1,0 +1,39 @@
+Altium Designer Pick and Place Locations
+d:\Lime\LimePCBs\LimeNET-Micro_SODIMM_adapter_1v2\Altium Designer design files\Project Outputs for LimeNet-Micro_SODIMM_adapter_1v2\Pick Place\Pick Place for LimeNet-Micro_SODIMM_adapter_1v2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       05-03-19
+Time:       09:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment          Layer       Footprint                Center-X(mm) Center-Y(mm) Rotation Description     
+R4         0R               TopLayer    RES0402                  16.5500      9.7500       270      ""              
+R3         0R               TopLayer    RES0402                  17.6500      9.7500       270      ""              
+F3         Fiducial         TopLayer    Fiducial                 -8.0000      38.0000      0        ""              
+F7         Fiducial         BottomLayer Fiducial                 -8.0000      38.0000      180      ""              
+F4         Fiducial         TopLayer    Fiducial                 75.6000      38.0000      0        ""              
+F8         Fiducial         BottomLayer Fiducial                 75.6000      38.0000      180      ""              
+F2         Fiducial         TopLayer    Fiducial                 75.6000      -8.0000      0        ""              
+F6         Fiducial         BottomLayer Fiducial                 75.6000      -8.0000      180      ""              
+F5         Fiducial         BottomLayer Fiducial                 -8.0000      -8.0000      180      ""              
+F1         Fiducial         TopLayer    Fiducial                 -8.0000      -8.0000      0        ""              
+J2         "Header 20x2_TH" TopLayer    Header20x2_SM_v2_flipped 28.1429      17.5500      360      ""              
+J4         5V               TopLayer    HDR_1x2                  45.0836      25.8000      90       ""              
+J5         3.3V             TopLayer    HDR_1x2                  37.4579      25.8000      90       ""              
+J6         USB              TopLayer    HEADER4X1_TH             55.2536      25.8000      360      "Header, 4-pin" 
+R7         0R               TopLayer    RES0805                  61.8750      8.9250       90       ""              
+R8         0R               TopLayer    RES0805                  58.4000      8.9250       90       ""              
+R9         0R               TopLayer    RES0805                  60.1500      8.9250       90       ""              
+J3         5V               TopLayer    HDR_1x2                  64.2500      10.9500      0        ""              
+R11        0R               TopLayer    RES0402                  30.8750      25.2750      360      ""              
+R10        0R               TopLayer    RES0402                  30.8750      27.4750      360      ""              
+R13        0R               TopLayer    RES0402                  30.8750      26.3750      360      ""              
+R12        0R               TopLayer    RES0402                  30.8750      28.5750      360      ""              
+R1         0R               TopLayer    RES0402                  31.3750      8.9250       270      ""              
+R2         0R               TopLayer    RES0402                  30.2750      8.9250       270      ""              
+R5         0R               TopLayer    RES0402                  18.7500      9.7500       270      ""              
+R6         0R               TopLayer    RES0402                  19.8500      9.7500       270      ""              

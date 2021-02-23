@@ -1,0 +1,15 @@
+Component   : Header20x2_TH
+PCB Library : LimeMicroAltiumLib_pcbLib_r01.PcbLib
+Date        : 2018-09-19
+Time        : 17:17:15
+
+
+
+Dimension : 51.384 x 5.613 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Multi Layer                40          0        0       0        0
+ Top Overlay                 0          4        0       0        0
+--------------------------------------------------------------------
+ Total                      40          4        0       0        0

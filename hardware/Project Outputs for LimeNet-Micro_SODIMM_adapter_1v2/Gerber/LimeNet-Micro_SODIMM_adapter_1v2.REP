@@ -1,0 +1,274 @@
+*************************************************************
+FileName = LimeNet-Micro_SODIMM_adapter_1v2.GBR
+AutoAperture = True
+*************************************************************
+Generating : ASM BOT
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GM14
+
+    Adding Layer      : ASM BOT
+
+
+Used DCodes :
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : TopSolder
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GTS
+
+    Adding Layer      : TopSolder
+
+    Adding Layer      : Top
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GTL
+
+    Adding Layer      : Top
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D14
+    D16
+    D17
+    D18
+    D19
+    D30
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Mechanical1
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GM1
+
+    Adding Layer      : Mechanical1
+
+
+Used DCodes :
+    D11
+    D13
+    D14
+    D15
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+*************************************************************
+
+*************************************************************
+Generating : TopPaste
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GTP
+
+    Adding Layer      : TopPaste
+
+    Adding Layer      : Top
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GPT
+
+    Adding Layer      : Top
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D16
+    D17
+    D18
+    D19
+    D30
+    D32
+    D33
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : ASM TOP
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GM15
+
+    Adding Layer      : ASM TOP
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D49
+    D53
+    D54
+*************************************************************
+
+*************************************************************
+Generating : BottomPaste
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GBP
+
+    Adding Layer      : BottomPaste
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : TopOverlay
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GTO
+
+    Adding Layer      : TopOverlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GPB
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D30
+    D32
+    D33
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Notes
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GM6
+
+    Adding Layer      : Notes
+
+
+Used DCodes :
+    D14
+    D49
+*************************************************************
+
+*************************************************************
+Generating : BottomOverlay
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GBO
+
+    Adding Layer      : BottomOverlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : BottomSolder
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GBS
+
+    Adding Layer      : BottomSolder
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D22
+    D24
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Bottom
+      File : LimeNet-Micro_SODIMM_adapter_1v2.GBL
+
+    Adding Layer      : Bottom
+
+    Adding Layer      : MultiLayer
+
+
+Used DCodes :
+    D13
+    D14
+    D30
+    D32
+    D33
+    D34
+    D35
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
